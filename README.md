@@ -90,8 +90,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://www.linkedin.com/in/nisha-shree-s-24b6b0327" />
+  <a href="https://www.linkedin.com/in/nisha-shree-s-24b6b0327">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
