@@ -76,9 +76,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha2910&theme=github-compact&hide_border=true" width="100%"/>
-</p>
+
 
 
 ## 🚀 Featured Projects
