@@ -65,10 +65,16 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nisha2910&theme=default&hide_border=true" />
 </p>
-
-
+---
 
 ## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha2910&bg_color=ffffff&color=333333&line=0077b5&point=0077b5&area=true&hide_border=true" width="100%" />
+</p>
+
+
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha2910&theme=github-compact&hide_border=true" width="100%"/>
