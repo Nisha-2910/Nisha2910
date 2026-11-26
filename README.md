@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nisha</h1>
-<h3 align="center">Computer Science & Engineering | Software Developer</h3>
+
+<h3 align="center">
+  Computer Science & Engineering | Software Developer
+</h3>
 
 <p align="center">
-  Passionate about building applications, solving problems and continuously learning new technologies.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Development;Problem+Solving;Always+Learning+%26+Growing" />
 </p>
 
 ---
@@ -10,40 +13,72 @@
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science & Engineering
-- 💻 Interested in Software Development and Full Stack Development
-- 🌱 Continuously learning Data Structures, Algorithms and development technologies
-- 🚀 Building projects to turn ideas into practical solutions
-- 🎯 Focused on improving my coding and problem-solving skills
+- 💻 Passionate about software development and building applications
+- 🌱 Improving my Data Structures and Algorithms skills
+- 🚀 Building projects to strengthen my technical knowledge
+- 🎯 Preparing for software development opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
+
 <p>
-  Java | C++ | Python | JavaScript
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
 </p>
 
-### Frontend
+### 🎨 Frontend Development
+
 <p>
-  HTML | CSS | JavaScript | React
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
+
 <p>
-  Node.js | Express.js | MongoDB | MySQL
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Tools
+### 🔧 Tools
+
 <p>
-  Git | GitHub | VS Code
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Stats
 
-<!-- Replace these with your actual best repositories -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nisha2910&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha2910&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nisha2910&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisha2910&theme=tokyo-night" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace these with your actual project names and links -->
 
 - 💻 **Project 1** – Add your project description
 - 🚀 **Project 2** – Add your project description
@@ -53,13 +88,14 @@
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> |
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Learning, building and growing every day ✨</i>
+  <b>✨ Learning | Building | Growing ✨</b>
 </p>
