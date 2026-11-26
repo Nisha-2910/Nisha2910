@@ -92,6 +92,14 @@
 - Implemented document processing, chunking, embeddings and retrieval.
 - Integrated RAG and Groq API for contextual answers.
 - **Tech Stack:** Python, LangChain, RAG, Groq API
+- <p align="center">
+  <a href="YOUR_PROJECT_LINK_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nisha2910&repo=YOUR_REPOSITORY_NAME_1&theme=default" />
+  </a>
+  <a href="YOUR_PROJECT_LINK_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nisha2910&repo=YOUR_REPOSITORY_NAME_2&theme=default" />
+  </a>
+</p
 ## 🌐 Connect With Me
 
 <p align="center">
