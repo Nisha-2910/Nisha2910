@@ -74,14 +74,19 @@
 </p>
 ## 🚀 Featured Projects
 
-<!-- Replace these with your actual project names and links -->
+## 🚀 Featured Projects
 
-- 💻 **Project 1** – Add your project description
-- 🚀 **Project 2** – Add your project description
-- 🤖 **Project 3** – Add your project description
+### 🐔 Mobile Poultry Tracking System
+- Developed a mobile-based system to digitize poultry supply chain operations.
+- Implemented real-time delivery tracking using Google Maps API.
+- Built REST APIs and role-based dashboards.
+- **Tech Stack:** Flutter, Node.js, MongoDB, Google Maps API
 
----
-
+### 🤖 Multi-PDF Intelligent Search System
+- Developed an intelligent system to search and answer questions from multiple PDF documents.
+- Implemented document processing, chunking, embeddings and retrieval.
+- Integrated RAG and Groq API for contextual answers.
+- **Tech Stack:** Python, LangChain, RAG, Groq API
 ## 🌐 Connect With Me
 
 <p align="center">
